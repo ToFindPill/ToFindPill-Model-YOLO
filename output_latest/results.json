@@ -1,0 +1,503 @@
+{
+    "original_image": "/data_2/ace_pill/database/output_89/original_pill_image.png",
+    "bounding_box_image": "/data_2/ace_pill/database/output_89/bounding_box_pill_image.png",
+    "results": [
+        {
+            "id": "0",
+            "path": "/data_2/ace_pill/database/output_89/pill_image_0.png",
+            "candidates": [
+                {
+                    "id": "0-1",
+                    "class": "K-037941",
+                    "rank": 1,
+                    "percentage": "100%",
+                    "name": "락토딘캡슐 20mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147427158517500061.jpg",
+                    "material": "락토바실루스스포로게네스균|우르소데옥시콜산",
+                    "description": "흰색 내지 미황색의 분말이 든 상, 하부 담황색의 경질캡슐제",
+                    "type": "[02370]정장제",
+                    "code": "일반의약품",
+                    "company": "한솔신약(주)"
+                },
+                {
+                    "id": "0-2",
+                    "class": "K-011441",
+                    "rank": 2,
+                    "percentage": "0%",
+                    "name": "인후신캡슐 490mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147428316988100048.jpg",
+                    "material": "은교산건조엑스",
+                    "description": "갈색의 분말이 충진 된 상.하 하늘색의 경질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(유)한풍제약"
+                },
+                {
+                    "id": "0-3",
+                    "class": "K-033623",
+                    "rank": 3,
+                    "percentage": "0%",
+                    "name": "확펜연질캡슐 250mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1OCxjzi8sHa.jpg",
+                    "material": "나프록센",
+                    "description": "무색 내지 미황색(연노랑)의 투명한 내용물을 함유하는 투명의 장방형 연질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(주)유한양행"
+                },
+                {
+                    "id": "0-4",
+                    "class": "K-000573",
+                    "rank": 4,
+                    "percentage": "0%",
+                    "name": "게보린정 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1N5PLuAiUvi.jpg",
+                    "material": "아세트아미노펜|카페인무수물|이소프로필안티피린",
+                    "description": "홍색의 정제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "삼진제약(주)"
+                },
+                {
+                    "id": "0-5",
+                    "class": "K-025090",
+                    "rank": 5,
+                    "percentage": "0%",
+                    "name": "덴트큐캡슐 30mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147426407360700120.jpg",
+                    "material": "리소짐염산염|카르바조크롬|아스코르브산과립|토코페롤아세테이트 2배산",
+                    "description": "연한 분홍색 가루가 든 상하부 청색의 경질캡슐제",
+                    "type": "[02310]치과구강용약",
+                    "code": "일반의약품",
+                    "company": "코오롱제약(주)"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "path": "/data_2/ace_pill/database/output_89/pill_image_1.png",
+            "candidates": [
+                {
+                    "id": "1-1",
+                    "class": "K-033623",
+                    "rank": 1,
+                    "percentage": "75%",
+                    "name": "확펜연질캡슐 250mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1OCxjzi8sHa.jpg",
+                    "material": "나프록센",
+                    "description": "무색 내지 미황색(연노랑)의 투명한 내용물을 함유하는 투명의 장방형 연질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(주)유한양행"
+                },
+                {
+                    "id": "1-2",
+                    "class": "K-030590",
+                    "rank": 2,
+                    "percentage": "13%",
+                    "name": "이지엔6이브연질캡슐 200mg",
+                    "image": "https://connectdi.com/design/img/drug/148717322719300048.jpg",
+                    "material": "이부프로펜|파마브롬",
+                    "description": "무색 내지 연한 청색의 투명한 내용물을 함유한 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(주)대웅제약"
+                },
+                {
+                    "id": "1-3",
+                    "class": "K-033615",
+                    "rank": 3,
+                    "percentage": "11%",
+                    "name": "페인엔젤이부연질캡슐 400mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1Oo1IQuC6JV.jpg",
+                    "material": "이부프로펜",
+                    "description": "무색 내지 미황색의 액상 내용물이 든 노란색의 투명한 장방형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제이더블유중외제약(주)"
+                },
+                {
+                    "id": "1-4",
+                    "class": "K-024603",
+                    "rank": 4,
+                    "percentage": "0%",
+                    "name": "덱시부펜연질캡슐 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1O5i42zbIha.jpg",
+                    "material": "덱시부프로펜",
+                    "description": "무색 내지 연한 청색의 투명한 내용물이 든 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제일헬스사이언스(주)"
+                },
+                {
+                    "id": "1-5",
+                    "class": "K-011441",
+                    "rank": 5,
+                    "percentage": "0%",
+                    "name": "인후신캡슐 490mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147428316988100048.jpg",
+                    "material": "은교산건조엑스",
+                    "description": "갈색의 분말이 충진 된 상.하 하늘색의 경질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(유)한풍제약"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "path": "/data_2/ace_pill/database/output_89/pill_image_2.png",
+            "candidates": [
+                {
+                    "id": "2-1",
+                    "class": "K-011441",
+                    "rank": 1,
+                    "percentage": "71%",
+                    "name": "인후신캡슐 490mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147428316988100048.jpg",
+                    "material": "은교산건조엑스",
+                    "description": "갈색의 분말이 충진 된 상.하 하늘색의 경질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(유)한풍제약"
+                },
+                {
+                    "id": "2-2",
+                    "class": "K-025090",
+                    "rank": 2,
+                    "percentage": "15%",
+                    "name": "덴트큐캡슐 30mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147426407360700120.jpg",
+                    "material": "리소짐염산염|카르바조크롬|아스코르브산과립|토코페롤아세테이트 2배산",
+                    "description": "연한 분홍색 가루가 든 상하부 청색의 경질캡슐제",
+                    "type": "[02310]치과구강용약",
+                    "code": "일반의약품",
+                    "company": "코오롱제약(주)"
+                },
+                {
+                    "id": "2-3",
+                    "class": "K-037941",
+                    "rank": 3,
+                    "percentage": "14%",
+                    "name": "락토딘캡슐 20mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147427158517500061.jpg",
+                    "material": "락토바실루스스포로게네스균|우르소데옥시콜산",
+                    "description": "흰색 내지 미황색의 분말이 든 상, 하부 담황색의 경질캡슐제",
+                    "type": "[02370]정장제",
+                    "code": "일반의약품",
+                    "company": "한솔신약(주)"
+                },
+                {
+                    "id": "2-4",
+                    "class": "K-024603",
+                    "rank": 4,
+                    "percentage": "0%",
+                    "name": "덱시부펜연질캡슐 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1O5i42zbIha.jpg",
+                    "material": "덱시부프로펜",
+                    "description": "무색 내지 연한 청색의 투명한 내용물이 든 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제일헬스사이언스(주)"
+                },
+                {
+                    "id": "2-5",
+                    "class": "K-000573",
+                    "rank": 5,
+                    "percentage": "0%",
+                    "name": "게보린정 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1N5PLuAiUvi.jpg",
+                    "material": "아세트아미노펜|카페인무수물|이소프로필안티피린",
+                    "description": "홍색의 정제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "삼진제약(주)"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "path": "/data_2/ace_pill/database/output_89/pill_image_3.png",
+            "candidates": [
+                {
+                    "id": "3-1",
+                    "class": "K-000573",
+                    "rank": 1,
+                    "percentage": "100%",
+                    "name": "게보린정 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1N5PLuAiUvi.jpg",
+                    "material": "아세트아미노펜|카페인무수물|이소프로필안티피린",
+                    "description": "홍색의 정제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "삼진제약(주)"
+                },
+                {
+                    "id": "3-2",
+                    "class": "K-037941",
+                    "rank": 2,
+                    "percentage": "0%",
+                    "name": "락토딘캡슐 20mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147427158517500061.jpg",
+                    "material": "락토바실루스스포로게네스균|우르소데옥시콜산",
+                    "description": "흰색 내지 미황색의 분말이 든 상, 하부 담황색의 경질캡슐제",
+                    "type": "[02370]정장제",
+                    "code": "일반의약품",
+                    "company": "한솔신약(주)"
+                },
+                {
+                    "id": "3-3",
+                    "class": "K-024603",
+                    "rank": 3,
+                    "percentage": "0%",
+                    "name": "덱시부펜연질캡슐 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1O5i42zbIha.jpg",
+                    "material": "덱시부프로펜",
+                    "description": "무색 내지 연한 청색의 투명한 내용물이 든 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제일헬스사이언스(주)"
+                },
+                {
+                    "id": "3-4",
+                    "class": "K-011701",
+                    "rank": 4,
+                    "percentage": "0%",
+                    "name": "맥시크란정 625mg",
+                    "image": "https://connectdi.com/design/img/drug/1OpUNcKXiZU.jpg",
+                    "material": "아목시실린수화물|묽은클라불란산칼륨",
+                    "description": "이 약은 흰색이거나 거의 흰색 타원형의 필름코팅정제이다.",
+                    "type": "[06180]주로 그람양성, 음성균에 작용하는 것",
+                    "code": "전문의약품",
+                    "company": "보령제약(주)"
+                },
+                {
+                    "id": "3-5",
+                    "class": "K-025090",
+                    "rank": 5,
+                    "percentage": "0%",
+                    "name": "덴트큐캡슐 30mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147426407360700120.jpg",
+                    "material": "리소짐염산염|카르바조크롬|아스코르브산과립|토코페롤아세테이트 2배산",
+                    "description": "연한 분홍색 가루가 든 상하부 청색의 경질캡슐제",
+                    "type": "[02310]치과구강용약",
+                    "code": "일반의약품",
+                    "company": "코오롱제약(주)"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "path": "/data_2/ace_pill/database/output_89/pill_image_4.png",
+            "candidates": [
+                {
+                    "id": "4-1",
+                    "class": "K-030590",
+                    "rank": 1,
+                    "percentage": "83%",
+                    "name": "이지엔6이브연질캡슐 200mg",
+                    "image": "https://connectdi.com/design/img/drug/148717322719300048.jpg",
+                    "material": "이부프로펜|파마브롬",
+                    "description": "무색 내지 연한 청색의 투명한 내용물을 함유한 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(주)대웅제약"
+                },
+                {
+                    "id": "4-2",
+                    "class": "K-033615",
+                    "rank": 2,
+                    "percentage": "8%",
+                    "name": "페인엔젤이부연질캡슐 400mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1Oo1IQuC6JV.jpg",
+                    "material": "이부프로펜",
+                    "description": "무색 내지 미황색의 액상 내용물이 든 노란색의 투명한 장방형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제이더블유중외제약(주)"
+                },
+                {
+                    "id": "4-3",
+                    "class": "K-024603",
+                    "rank": 3,
+                    "percentage": "5%",
+                    "name": "덱시부펜연질캡슐 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1O5i42zbIha.jpg",
+                    "material": "덱시부프로펜",
+                    "description": "무색 내지 연한 청색의 투명한 내용물이 든 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제일헬스사이언스(주)"
+                },
+                {
+                    "id": "4-4",
+                    "class": "K-033623",
+                    "rank": 4,
+                    "percentage": "2%",
+                    "name": "확펜연질캡슐 250mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1OCxjzi8sHa.jpg",
+                    "material": "나프록센",
+                    "description": "무색 내지 미황색(연노랑)의 투명한 내용물을 함유하는 투명의 장방형 연질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(주)유한양행"
+                },
+                {
+                    "id": "4-5",
+                    "class": "K-011441",
+                    "rank": 5,
+                    "percentage": "1%",
+                    "name": "인후신캡슐 490mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147428316988100048.jpg",
+                    "material": "은교산건조엑스",
+                    "description": "갈색의 분말이 충진 된 상.하 하늘색의 경질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(유)한풍제약"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "path": "/data_2/ace_pill/database/output_89/pill_image_5.png",
+            "candidates": [
+                {
+                    "id": "5-1",
+                    "class": "K-030590",
+                    "rank": 1,
+                    "percentage": "76%",
+                    "name": "이지엔6이브연질캡슐 200mg",
+                    "image": "https://connectdi.com/design/img/drug/148717322719300048.jpg",
+                    "material": "이부프로펜|파마브롬",
+                    "description": "무색 내지 연한 청색의 투명한 내용물을 함유한 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(주)대웅제약"
+                },
+                {
+                    "id": "5-2",
+                    "class": "K-033615",
+                    "rank": 2,
+                    "percentage": "24%",
+                    "name": "페인엔젤이부연질캡슐 400mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1Oo1IQuC6JV.jpg",
+                    "material": "이부프로펜",
+                    "description": "무색 내지 미황색의 액상 내용물이 든 노란색의 투명한 장방형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제이더블유중외제약(주)"
+                },
+                {
+                    "id": "5-3",
+                    "class": "K-024603",
+                    "rank": 3,
+                    "percentage": "0%",
+                    "name": "덱시부펜연질캡슐 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1O5i42zbIha.jpg",
+                    "material": "덱시부프로펜",
+                    "description": "무색 내지 연한 청색의 투명한 내용물이 든 청색의 투명한 타원형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제일헬스사이언스(주)"
+                },
+                {
+                    "id": "5-4",
+                    "class": "K-000573",
+                    "rank": 4,
+                    "percentage": "0%",
+                    "name": "게보린정 300mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1N5PLuAiUvi.jpg",
+                    "material": "아세트아미노펜|카페인무수물|이소프로필안티피린",
+                    "description": "홍색의 정제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "삼진제약(주)"
+                },
+                {
+                    "id": "5-5",
+                    "class": "K-011441",
+                    "rank": 5,
+                    "percentage": "0%",
+                    "name": "인후신캡슐 490mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147428316988100048.jpg",
+                    "material": "은교산건조엑스",
+                    "description": "갈색의 분말이 충진 된 상.하 하늘색의 경질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(유)한풍제약"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "path": "/data_2/ace_pill/database/output_89/pill_image_6.png",
+            "candidates": [
+                {
+                    "id": "6-1",
+                    "class": "K-011441",
+                    "rank": 1,
+                    "percentage": "100%",
+                    "name": "인후신캡슐 490mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147428316988100048.jpg",
+                    "material": "은교산건조엑스",
+                    "description": "갈색의 분말이 충진 된 상.하 하늘색의 경질캡슐제",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "(유)한풍제약"
+                },
+                {
+                    "id": "6-2",
+                    "class": "K-025090",
+                    "rank": 2,
+                    "percentage": "0%",
+                    "name": "덴트큐캡슐 30mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147426407360700120.jpg",
+                    "material": "리소짐염산염|카르바조크롬|아스코르브산과립|토코페롤아세테이트 2배산",
+                    "description": "연한 분홍색 가루가 든 상하부 청색의 경질캡슐제",
+                    "type": "[02310]치과구강용약",
+                    "code": "일반의약품",
+                    "company": "코오롱제약(주)"
+                },
+                {
+                    "id": "6-3",
+                    "class": "K-033615",
+                    "rank": 3,
+                    "percentage": "0%",
+                    "name": "페인엔젤이부연질캡슐 400mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1Oo1IQuC6JV.jpg",
+                    "material": "이부프로펜",
+                    "description": "무색 내지 미황색의 액상 내용물이 든 노란색의 투명한 장방형 연질캡슐",
+                    "type": "[01140]해열.진통.소염제",
+                    "code": "일반의약품",
+                    "company": "제이더블유중외제약(주)"
+                },
+                {
+                    "id": "6-4",
+                    "class": "K-024516",
+                    "rank": 4,
+                    "percentage": "0%",
+                    "name": "덴플러스포르테캡슐 150mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/147427931156600158.jpg",
+                    "material": "아스코르브산|리소짐염산염|토코페롤아세테이트 2배산|카르바조크롬",
+                    "description": "엷은 주황색의 분말이 든 상·하부 청색의 경질캡슐제",
+                    "type": "[02310]치과구강용약",
+                    "code": "일반의약품",
+                    "company": "(주)테라젠이텍스"
+                },
+                {
+                    "id": "6-5",
+                    "class": "K-030636",
+                    "rank": 5,
+                    "percentage": "0%",
+                    "name": "뉴비그라정100mg/PTP",
+                    "image": "https://connectdi.com/design/img/drug/1OVXbyMiLVe.jpg",
+                    "material": "실데나필시트르산염",
+                    "description": "푸른색의 타원형 필름코팅정",
+                    "type": "[02590]기타의 비뇨생식기관 및 항문용약",
+                    "code": "전문의약품",
+                    "company": "한국휴텍스제약(주)"
+                }
+            ]
+        }
+    ]
+}
